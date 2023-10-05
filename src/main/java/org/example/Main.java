@@ -55,6 +55,5 @@ public class Main {
                 System.out.println("Developer " + developer.getName() + " is not frontend developer.");
             }
         }
-
     }
 }
